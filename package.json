@@ -1,6 +1,16 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "chai": "^5.1.1",
     "mocha": "^10.7.0"
-  }
+  },
+  "name": "week-9-war-game",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000W\u0000a\u0000r\u0000G\u0000a\u0000m\u0000e\u0000\r\u0000 \u0000",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
